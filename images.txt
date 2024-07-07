@@ -3,3 +3,6 @@ kasmweb/nginx
 portainer/portainer
 bushinvren1986/mygohttpserver:v1
 bitnami/minio:latest
+mariadb:10.6
+nextcloud:fpm-alpine
+nginx
