@@ -10,3 +10,6 @@ fishros2/ros:melodic-desktop-full
 fishros2/ros:noetic-desktop-full
 fishros2/ros:humble-desktop-full
 fishros2/ros:foxy-desktop
+rustdesk/rustdesk-server
+
+
